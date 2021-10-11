@@ -1,7 +1,17 @@
-.conteiner{
+.container{
     width: 1170px;
     margin: 0 auto;
+    display: flex;
+    flex-direction:column;
 }
 .title{
     text-align: center;
+    color: blueviolet;
 }
+.header_inner{
+    background-color: black;
+}
+.header_inner {
+    display: flex;
+  flex-direction:column
+  }

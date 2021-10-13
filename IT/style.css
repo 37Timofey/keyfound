@@ -1,0 +1,36 @@
+table:hover{
+    color: green;
+    margin:0px;
+    padding: 0px;
+}
+.one:hover{
+    background-color: rgb(255, 0, 43);
+}
+.two:hover{
+    background-color: rgb(38, 0, 255);
+}
+.three:hover{
+    background-color: green;
+}
+.four:hover{
+    background-color: rgb(132, 0, 255);
+}
+.one{
+    height: 300px;
+    width: 300px;
+}
+.two{
+    color: green;
+    height: 300px;
+    width: 300px;
+}
+.three{
+    color: green;
+    height: 300px;
+    width: 300px;
+}
+.four{
+    color: green;
+    height: 300px;
+    width: 300px;
+}

@@ -1,0 +1,51 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    width: 1170px;
+    margin: 0 auto;
+    
+}
+.header{
+    background-image: url("door.jpg");
+    width: 100%;
+    height: 100vh;
+    background-size: cover;
+    background-position: center center;
+}
+.text{
+    list-style-type: none;
+    margin-left: 30px;
+}
+.top{
+    display: flex;
+    justify-content: space-between ;
+}
+.menu{
+    display: flex;
+    color: cyan;
+    font-size: 30px;
+}
+.logo{
+    color: wheat;
+    font-size: 40px;
+}
+.center{
+    color: rgb(21, 255, 0);
+    margin-top: 250px;
+    text-align: center;
+}
+.start{
+    border: solid 3px green;
+    font-size: 30px;
+    color: goldenrod;
+    padding: 10px;
+}
+.start:hover{
+    background-color: indigo;
+    border-color: blue;
+}
+.par{
+    margin-bottom: 30px;
+}
